@@ -1,8 +1,8 @@
 package ngp.core.atm;
 
 public class Operation implements IOperation {
-	public float balance = 9876.32f;
-	public short pin =1001;
+	public float balance = 10029.32f;
+	public short pin =6100610;
 	public int count = 0;
 	
 	public float checkBalance() {
