@@ -9,6 +9,7 @@ WITHDRAW
 
 Allows users to withdraw money from their account.
 The system prompts for the current PIN and the amount to withdraw.
+
 DEPOSIT
 
 Enables users to deposit money into their account.

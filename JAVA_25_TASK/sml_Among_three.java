@@ -4,8 +4,9 @@ public class sml_Among_three {
     }
 
     public static void main(String[] args) {
-        int a = 10, b = 3, c = 8;
+        int a = 10, b = 3, c = 5;
         int result = larger(a, b, c);
+        //the line 7 bug is fixed 
         System.out.println("SMALLEST IS :" + result);
     }
 
